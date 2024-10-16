@@ -1,10 +1,10 @@
-# Exp-6-Pseudorandom-Number-Generation
+# Exp-6 Pseudorandom Number Generation
 
 ## AIM :
 
 To implement Pseudorandom Number Generation using Standard Library.
 
-## ALGORITHM :
+## DESIGN STEPS :
 
 ### Step 1: 
 

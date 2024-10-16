@@ -1,4 +1,4 @@
-# Cryptography---Exp-6-Pseudorandom-Number-Generation
+# Exp-6-Pseudorandom-Number-Generation
 
 ## AIM :
 
